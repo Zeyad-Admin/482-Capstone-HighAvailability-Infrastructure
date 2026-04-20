@@ -137,7 +137,7 @@ Full build steps and configuration details are available in:
 
 ## 🎥 Video Demonstration
 
-➡️ Add your video link here (YouTube / Google Drive)
+➡️ YOutube  ( https://youtu.be/LPb5GdTv68k )
 
 ---
 
